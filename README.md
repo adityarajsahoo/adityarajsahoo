@@ -9,7 +9,7 @@
 
 <!-- # Hi, I am Ayush! Great to see you here! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"> -->
 
-**I am Aditya Raj Sahoo, currently pursuing my B.Tech degree in Electronics and Instrumentation from [VIT Vellore](https://vit.ac.in/). I am a machine learning enthusiast and a passionate coder.
+**I am Aditya Raj Sahoo, currently pursuing my B.Tech degree in Electronics and Instrumentation from [VIT Vellore](https://vit.ac.in/). I am a machine learning enthusiast and a passionate coder.**
 
 ## Find out more about me & feel free to connect with me here:
 
