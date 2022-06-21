@@ -2,7 +2,7 @@
 <img alt="git art work animation" title="Git Art Work Animation" src="https://github.com/adityarajsahoo/adityarajsahoo/blob/master/gitartwork.svg" width="100%" style="margin-left:-32px" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Aditya;+An+Tech+Enthusiast+🔆;AWS+Certified+Cloud+Practitioner+💻;Loves+To+Build+Projects+🛠️;A+Problem+Solver+🕵;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Aditya;+An+Tech+Enthusiast+🔆;AWS+Certified+Cloud+Practitioner!;Loves+To+Build+Projects+🛠️;A+Problem+Solver+🕵;">
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
