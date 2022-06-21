@@ -1,6 +1,9 @@
 ### Hi there I am Aditya Raj Sahoo👋
 <img alt="git art work animation" title="Git Art Work Animation" src="https://github.com/adityarajsahoo/adityarajsahoo/blob/master/gitartwork.svg" width="100%" style="margin-left:-32px" />
 
+
+**I am Aditya Raj Sahoo, currently pursuing my B.Tech degree in Electronics and Instrumentation from [VIT Vellore](https://vit.ac.in/). I am a machine learning enthusiast and a passionate coder who wants to hone his technical skills and attain excellent standards that can pave the way for good internships and placement opportunities. Currently, I am learning Data Structures, Algorithms, ML and have worked on multiple projects. I can work with Python, C++, Java, HTML, CSS, JavaScript, Adobe Photoshop, SQL, Git and Github.**
+
 ## Find out more about me & feel free to connect with me here:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityaraj.sahoo@gmail.com)](mailto:adityaraj.sahoo@gmail.com)
