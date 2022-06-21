@@ -11,7 +11,7 @@
 
 <!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/channel_id)](https://www.youtube.com/channel/channel_id) -->
 
-[![Aditya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=adityarajsahoo&theme=xcode)](https://github.com/adityarajsahoo)
+<!--[![Aditya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=adityarajsahoo&theme=xcode)](https://github.com/adityarajsahoo)-->
 
 <!--
 **adityarajsahoo/adityarajsahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
