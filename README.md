@@ -1,4 +1,5 @@
 ### Hi there I am Aditya Raj Sahoo👋
+<img alt="git art work animation" title="Git Art Work Animation" src="https://github.com/adityarajsahoo/adityarajsahoo/blob/main/gitartwork.svg" width="100%" style="margin-left:-32px" />
 
 <!--
 **adityarajsahoo/adityarajsahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
