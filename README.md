@@ -70,8 +70,8 @@
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) -->
 
-<!--## 👀 Views
-![Profile-Views-Counter](https://komarev.com/ghpvc/?username=adityarajsahoo&label=PROFILE+VIEWS&style=flat-square&color=green)-->
+## 👀 Views
+![Profile-Views-Counter](https://komarev.com/ghpvc/?username=adityarajsahoo&label=PROFILE+VIEWS&style=flat-square&color=green)
 
 <!--
 **adityarajsahoo/adityarajsahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
