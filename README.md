@@ -1,4 +1,4 @@
-### Hi there I am Aditya Raj Sahoo👋
+### Hi it's Aditya👋
 <img alt="git art work animation" title="Git Art Work Animation" src="https://github.com/adityarajsahoo/adityarajsahoo/blob/master/gitartwork.svg" width="100%" style="margin-left:-32px" />
 
 <p align="center">
