@@ -21,8 +21,6 @@
 
 <!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/channel_id)](https://www.youtube.com/channel/channel_id) -->
 
-[![Aditya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=adityarajsahoo&theme=xcode)](https://github.com/adityarajsahoo)
-
 ## 👨🏻‍💻 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/adityaraj_sahoo/)
@@ -72,6 +70,8 @@
 
 ## 👀 Views
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=adityarajsahoo&label=PROFILE+VIEWS&style=flat-square&color=green)
+
+[![Aditya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=adityarajsahoo&theme=xcode)](https://github.com/adityarajsahoo)
 
 <!--
 **adityarajsahoo/adityarajsahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
