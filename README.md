@@ -70,9 +70,20 @@
 
 ## 👀 Views
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=adityarajsahoo&label=PROFILE+VIEWS&style=flat-square&color=green)
+![GitHub followers](https://img.shields.io/github/followers/adityarajsahoo?label=Follow&style=social)
+
+## 📈 Stats
 
 [![Aditya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=adityarajsahoo&theme=xcode)](https://github.com/adityarajsahoo)
 
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityarajsahoo&show_icons=true&theme=chartreuse-dark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityarajsahoo&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+<!--
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adityarajsahoo&title=Joined2020,Commit,Stars&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 **adityarajsahoo/adityarajsahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
