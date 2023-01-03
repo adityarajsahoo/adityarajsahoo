@@ -74,7 +74,7 @@
 
 ## 📈 Stats
 
-[![Aditya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=adityarajsahoo&theme=xcode)](https://github.com/adityarajsahoo)
+<!--[![Aditya's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=adityarajsahoo&theme=xcode)](https://github.com/adityarajsahoo)-->
 
 ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityarajsahoo&show_icons=true&theme=chartreuse-dark)
 
