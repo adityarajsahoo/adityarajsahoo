@@ -64,9 +64,10 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 <!--![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) -->
+ -->
 
 ## 👀 Views
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=adityarajsahoo&label=PROFILE+VIEWS&style=flat-square&color=green)
