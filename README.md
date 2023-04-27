@@ -47,15 +47,15 @@
 <!--[Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)-->
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) -->
 [![Numpy](https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&style=flat-square&logoColor=white)](https://numpy.org/)
-
-<!-- ![Materialize CSS](https://img.shields.io/badge/-materialize--css-ff69b4?style=flat-sqaure&logo=materialize-css&logoColor=white) -->
+<!--[!Materialize CSS](https://img.shields.io/badge/-materialize--css-ff69b4?style=flat-sqaure&logo=materialize-css&logoColor=white)-->
 
 ### Tools:
 
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
+<!--![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)-->
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-<!--![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+<!--
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
 -->
@@ -65,9 +65,8 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-<!--![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
-<!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
- -->
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
 ## 👀 Views
 ![Profile-Views-Counter](https://komarev.com/ghpvc/?username=adityarajsahoo&label=PROFILE+VIEWS&style=flat-square&color=green)
